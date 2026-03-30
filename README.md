@@ -40,8 +40,8 @@ uvicorn app.main:app --reload
 ## Dev log
 
 ### 31 Mar
-**Built:** Project structure, venv, .gitignore, GitHub setup  
-**Confused by:** -  
-**Would do differently:** -
-
+**Built:** Project structure, venv, .gitignore, 
+GitHub setup, system design, ADR-001  
+**Confused by:** nothing yet -- ask me again tomorrow  
+**Would do differently:** nothing yet
 ---
